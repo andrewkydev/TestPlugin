@@ -1,0 +1,4 @@
+name: API
+version: '${version}'
+main: org.andrewkydev.api.API
+api-version: '1.20'
